@@ -1,0 +1,13 @@
+{
+  "log": {
+    "console": {
+      "1" : [
+        "all",  
+        "io", 
+        "gui",
+        "preview",
+        "error"  
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+body {
+	font-family: Calibri; 
+	background-color: #222222;
+	background-image: url("Background3.png");
+	color: #ffffff; 
+    margin-left:200px;
+    margin-right:200px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: Cambria;
+	font-weight:normal; 
+}
+
+h1 {
+	font-size: 60pt;
+}
+
+h2 {
+	font-size: 40pt;
+}
+
+h3 {
+	font-size: 35pt;
+}
+
+p, li, code{
+	font-size: 30pt;
+}

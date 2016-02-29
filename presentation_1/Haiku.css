@@ -1,0 +1,23 @@
+body {
+	font-family: Calibri; 
+	color: #ffffff; 
+    margin-left:50px;
+    margin-right:50px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: Cambria;
+	font-weight:normal; 
+}
+
+h1 {
+	font-size: 60pt;
+}
+
+h2 {
+	font-size: 40pt;
+}
+
+p, li{
+	font-size: 30pt;
+}
